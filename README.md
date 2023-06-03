@@ -2,18 +2,18 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:828/1*vBi4Ycgdn5t3lu2SvQXuog.gif" width="600" height="300"/>
 </div>
----
 
 ### :woman_technologist: About Me :
 I work as a Data Scientist in BioPharma 🧪
 
-🔭 Current projects include: MVA pipelines for process DeVop, Mechanistic models of transfection and dahsboarding.
-🌱 I'm learning more about MLOps and their applications in BioPharma
-📫 Reach me @ [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anavalinhas)
-⚡ Things I enjoy: books, drawing, fridays at sunset
+### 🔭 Current projects include: MVA pipelines for process DeVop, Mechanistic models of transfection and dahsboarding.
+### 🌱 I'm learning more about MLOps and their applications in BioPharma
+### 📫 Reach me @ [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anavalinhas)
+### ⚡ Things I enjoy: books, drawing, fridays at sunset
 
 ### :hammer_and_wrench: Languages and Tools :
   <div>
