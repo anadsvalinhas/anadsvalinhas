@@ -12,11 +12,11 @@
   </div>
   
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anadsvalinhas)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anadsvalinhas&theme=dark&background=000000)](https://git.io/streak-stats)
 ### 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anadsvalinhas)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anadsvalinhas&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anadsvalinhas&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anadsvalinhas&show_icons=true&theme=dark&background=000000)
 <!--
 **anadsvalinhas/anadsvalinhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
