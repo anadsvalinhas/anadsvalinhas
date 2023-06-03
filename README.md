@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ana!
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:828/1*vBi4Ycgdn5t3lu2SvQXuog.gif"#gh-dark-mode-only width="600" height="300"/>
+  <img src="https://miro.medium.com/v2/resize:fit:828/1*vBi4Ycgdn5t3lu2SvQXuog.gif#gh-dark-mode-only" width="600" height="300"/>
 </div>
 ### :hammer_and_wrench: Languages and Tools :
   <div>
