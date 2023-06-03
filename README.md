@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Ana!
 
+### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anadsvalinhas)](https://git.io/streak-stats)
 
 <!--
