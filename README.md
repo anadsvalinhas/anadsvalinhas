@@ -1,4 +1,7 @@
 ### Hi there 👋, I'm Ana!
+<div align="center">
+  <img src="https://gfycat.com/amusingfailingcornsnake-study-session-chilledcow-lofi-girl-hip-hop-beats" width="600" height="300"/>
+</div>
 ### :hammer_and_wrench: Languages and Tools :
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
