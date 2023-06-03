@@ -8,7 +8,7 @@
 </div>
 
 <div>
-### :woman_technologist: About Me :
+👩‍💻 About Me :
 I work as a Data Scientist in BioPharma 🧪
 
 -🔭 Current projects include: MVA pipelines for process DeVop, Mechanistic models of transfection and dahsboarding.
