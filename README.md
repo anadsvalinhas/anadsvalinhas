@@ -13,7 +13,7 @@
 
   - 🔭: Current projects include: MVA pipelines for process DeVop, Mechanistic models of transfection and dahsboarding.
   - 🌱: I'm learning more about MLOps and their applications in BioPharma
-  - 📫: Reach me @ [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anavalinhas)
+  - 📫: Reach me @ [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anavalinhas)
   - ⚡: Things I enjoy: books, drawing, fridays at sunset
 
 # :hammer_and_wrench: Languages and Tools :
