@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Ana!
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anadsvalinhas)](https://git.io/streak-stats)
 
 <!--
 **anadsvalinhas/anadsvalinhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
