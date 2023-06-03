@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ana!
 <div align="center">
-  <img src="https://gfycat.com/amusingfailingcornsnake-study-session-chilledcow-lofi-girl-hip-hop-beats" width="600" height="300"/>
+  <img src="https://miro.medium.com/v2/resize:fit:828/1*vBi4Ycgdn5t3lu2SvQXuog.gif" width="600" height="300"/>
 </div>
 ### :hammer_and_wrench: Languages and Tools :
   <div>
